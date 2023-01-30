@@ -4,6 +4,11 @@
 ```
 npm install
 ```
+## Project moka
+```
+npm install json-server
+```
+
 
 ### Compiles and hot-reloads for development
 ```
@@ -24,6 +29,7 @@ npm run test:unit
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
+<<<<<<< HEAD
 ### Para rodar o projeto é necessário a instalação do Nodejs, NPM e VUE3. Além disso utilizo o VSCODE.
 
 ### Bem tranquilo fazer o teste por ser um CRUD, o codigo foi separado seguindo a regra mais ou menos o
@@ -32,4 +38,10 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### - Criado um ambiente de backend para manipular os dados como se fosse o BD;
 ### - Criado a estrutura conforme a solicitação do Front End;
 ### - Fiz o Commit direto do VSCODE incliundo no github;
+=======
+### Compiles moka Json
+```
+npm run backend
+```
+>>>>>>> 02596d4896ae5755799c44ca74361b149e1cc61e
 
