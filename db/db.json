@@ -1,0 +1,32 @@
+{
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Finalizado"
+    }
+  ],
+  "clients": [
+    {
+      "name": "André Carnevale",
+      "doc": "3233232333",
+      "phone": "12987653434",
+      "mail": "andre@gmail.com",
+      "checked": true,
+      "status": "Solicitado",
+      "id": 1
+    },
+    {
+      "name": "Alexandre Maximo",
+      "doc": "111111111",
+      "phone": "118992736365",
+      "mail": "alexandre@gmail.com",
+      "checked": true,
+      "status": "Solicitado",
+      "id": 2
+    }
+  ]
+}
